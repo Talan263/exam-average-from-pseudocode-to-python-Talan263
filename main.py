@@ -26,7 +26,7 @@ def calculate_average():
   #calculate the average of the 3 scores
   average= (score1+score2+score3)/3
   #print the average of the 3 scores
-  print("First score:",score1,"\n""Second score:",score2,"\n","Third Score:",score3,"\n","The average score is:",average,)
+  print("First score:",score1,"\n""Second score:",score2,"\n""Third Score:",score3,"\n""The average score is:",average,)
 
 
 # Call your function when your program is ready
